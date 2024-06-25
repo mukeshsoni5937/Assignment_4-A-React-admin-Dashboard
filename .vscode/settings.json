@@ -1,0 +1,10 @@
+{
+    "css.lint.validProperties": [
+        "{   \"css.lint.unknownAtRules\": \"ignore\" }"
+    ],
+    "json.schemas": [
+
+    ],
+    "scss.lint.unknownAtRules": "ignore",
+    "css.lint.unknownAtRules": "ignore"
+}
